@@ -1,0 +1,1 @@
+module.exports.SEED = '@insanity-p4pupro@';
